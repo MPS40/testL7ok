@@ -1,0 +1,35 @@
+{
+	"ADS": {
+	    
+		 "rewarde_type": "applovin",
+		"native_type": "applovin",
+		"inter_type": "applovin",
+		"banner_type": "applovin",
+		
+
+        
+        
+		"unity_id": "42455",
+
+		"ironsource_id": "65234",
+
+		"banner_applovin": "2d9f949a420587cf",
+		"native_applovin": "c395bddd489cd481",
+		"interstitial_applovin": "e73612337bde8e1d",
+		"rewarde_applovin": "4f5f504387e6c233",
+
+		"interstitial_admob": "",
+		"banner_admob": "",
+		"native_admob": "",
+		"rewarde_admob": "",
+
+		 
+		
+		"facebook_interstitial": "",
+		"facebook_native": "",
+		"facebook_banner": "",
+		"facebook_rewarde": ""
+
+		 
+	}  
+   }
